@@ -1,0 +1,7 @@
+C:\dev\projects\aspnet-simple-api\SimpleApi\bin\Release\net6.0\publish\SimpleApi.exe
+C:\dev\projects\aspnet-simple-api\SimpleApi\bin\Release\net6.0\publish\appsettings.Development.json
+C:\dev\projects\aspnet-simple-api\SimpleApi\bin\Release\net6.0\publish\appsettings.json
+C:\dev\projects\aspnet-simple-api\SimpleApi\bin\Release\net6.0\publish\SimpleApi.dll
+C:\dev\projects\aspnet-simple-api\SimpleApi\bin\Release\net6.0\publish\SimpleApi.deps.json
+C:\dev\projects\aspnet-simple-api\SimpleApi\bin\Release\net6.0\publish\SimpleApi.runtimeconfig.json
+C:\dev\projects\aspnet-simple-api\SimpleApi\bin\Release\net6.0\publish\SimpleApi.pdb
