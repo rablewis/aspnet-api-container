@@ -3,7 +3,7 @@ WORKDIR /app
 
 # Copy the project into the SDK container
 COPY ./SimpleApi ./
-# Restore as distince layers
+# Restore as distinct layers
 RUN dotnet restore
 # Build and publish a release
 RUN dotnet publish -c Release -o out
